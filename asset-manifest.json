@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ToDoList.git/static/css/main.0e92e1b9.chunk.css",
+    "main.js": "/ToDoList.git/static/js/main.ebd9c53c.chunk.js",
+    "main.js.map": "/ToDoList.git/static/js/main.ebd9c53c.chunk.js.map",
+    "runtime~main.js": "/ToDoList.git/static/js/runtime~main.571cedb3.js",
+    "runtime~main.js.map": "/ToDoList.git/static/js/runtime~main.571cedb3.js.map",
+    "static/js/2.8a586615.chunk.js": "/ToDoList.git/static/js/2.8a586615.chunk.js",
+    "static/js/2.8a586615.chunk.js.map": "/ToDoList.git/static/js/2.8a586615.chunk.js.map",
+    "static/js/3.8f574fe2.chunk.js": "/ToDoList.git/static/js/3.8f574fe2.chunk.js",
+    "static/js/3.8f574fe2.chunk.js.map": "/ToDoList.git/static/js/3.8f574fe2.chunk.js.map",
+    "index.html": "/ToDoList.git/index.html",
+    "precache-manifest.0cb04f09d217ae688316a957a7c61de1.js": "/ToDoList.git/precache-manifest.0cb04f09d217ae688316a957a7c61de1.js",
+    "service-worker.js": "/ToDoList.git/service-worker.js",
+    "static/css/main.0e92e1b9.chunk.css.map": "/ToDoList.git/static/css/main.0e92e1b9.chunk.css.map"
+  }
+}
